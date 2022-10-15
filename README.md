@@ -1,8 +1,16 @@
-### Nice to meet you !!  👋
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hoki%Nam&fontSize=90" align="center" width="1500px"/>
 
-<p>🌱 I’m currently learning python and AI in MS AI School.</p>
-<p>😄 I live in Busan.</p>
-<br>
+
+<p>✔️ I’m currently learning python and AI in MS AI School.</p>
+<p>✔️ I live in Busan.</p>
+<p>✔️ Python 코딩테스트 문제 같이 연습하실분 연락주세요 !</p>
+<p>✔️ AI관련 논문 스터디 생각있으시면 연락주세요 !</p>
+<p>✔️ 소통은 언제나 환영합니다 !</p>
+
+### 🤝🏻 &nbsp;Contact
+<a href="mailto:skaghrl0@gmail.com"><img src="https://img.shields.io/badge/-skaghrl0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<p>Kakao talk : https://open.kakao.com/o/sidFV5He</p>
+
 
 <h3>🛠My Tech Stack</h3><hr>
 <img src="https://img.shields.io/badge/Python-2496ED?style=flat&logo=#3776AB&logoColor=white"/>
