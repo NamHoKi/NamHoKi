@@ -3,6 +3,7 @@
 
 <p>✔️ I’m currently learning python and AI in MS AI School.</p>
 <p>✔️ I live in Busan.</p>
+<hr>
 <p>✔️ Python 코딩테스트 문제 같이 연습하실분 연락주세요 !</p>
 <p>✔️ AI관련 논문 스터디 생각있으시면 연락주세요 !</p>
 <p>✔️ 소통은 언제나 환영합니다 !</p>
