@@ -10,7 +10,7 @@
 
 ### 🤝🏻 &nbsp;Contact<hr>
 <a href="mailto:skaghrl0@gmail.com"><img src="https://img.shields.io/badge/-skaghrl0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a herd="https://open.kakao.com/o/sidFV5He">![kkt](https://user-images.githubusercontent.com/48282708/195996419-0d96bdcf-ba35-49ac-95cc-28de61f45d89.png)
+<a herd="https://open.kakao.com/o/sidFV5He">(https://user-images.githubusercontent.com/48282708/195996419-0d96bdcf-ba35-49ac-95cc-28de61f45d89.png)
 
 
 <h3>🛠 My Tech Stack</h3><hr>
