@@ -8,9 +8,13 @@
 <p>✔️ AI관련 논문 스터디 생각있으신분 !!</p>
 <p>✔️ 소통은 언제나 환영합니다 !</p>
 
+<br>
+
 ### 🤝🏻 &nbsp;Contact<hr>
   [![kakaotalk_logo_icon_147272](https://user-images.githubusercontent.com/48282708/196000143-6a76cf14-990f-4c37-8f75-8d64a4ed62a2.png)](https://open.kakao.com/o/sidFV5He)
   <a href="mailto:skaghrl0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-skaghrl0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+<br>
 
 <h3>🛠 My Tech Stack</h3><hr>
 <!-- <img src="https://img.shields.io/badge/Python-2496ED?style=flat&logo=#3776AB&logoColor=white"/> -->
