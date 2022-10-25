@@ -4,13 +4,10 @@
 <p><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I’m currently learning python and AI in MS AI School.</p>
 <p><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I live in Busan.</p>
 <hr>
-<p>✔️ Python 코딩테스트 스터디생각있으신분 !!</p>
-<p>✔️ AI관련 논문 스터디 생각있으신분 !!</p>
-<p>✔️ 소통은 언제나 환영합니다 !</p>
-
-<br>
 
 ### 🤝🏻 &nbsp;Contact<hr>
+<p>✔️ 소통은 언제나 환영합니다 !</p>
+
   [![kakaotalk_logo_icon_147272](https://user-images.githubusercontent.com/48282708/196000143-6a76cf14-990f-4c37-8f75-8d64a4ed62a2.png)](https://open.kakao.com/o/sidFV5He)
   <a href="mailto:skaghrl0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-skaghrl0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
