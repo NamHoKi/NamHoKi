@@ -9,7 +9,10 @@
 <p>✔️ 소통은 언제나 환영합니다 !</p>
 
   [![kakaotalk_logo_icon_147272](https://user-images.githubusercontent.com/48282708/196000143-6a76cf14-990f-4c37-8f75-8d64a4ed62a2.png)](https://open.kakao.com/o/sidFV5He)
-  <a href="mailto:skaghrl0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-skaghrl0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:skaghrl0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-skaghrl0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+[LinkedIn](https://www.linkedin.com/in/devhok2/)
+
+</a>
 
 <br>
 
