@@ -13,7 +13,6 @@
 
 - E-Mail   : DevHok2@gmail.com <br>
 - LinkedIn : https://www.linkedin.com/in/devhok2/
-- Notion   : https://www.notion.so/ithoki/c8692d682d394c1eba6810f2f68197a8?v=fd93079acc454beca89d731995264afc&pvs=4
 
 </a>
 
